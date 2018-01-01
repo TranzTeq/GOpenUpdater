@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOpenUpdater", "GOpenUpdater\GOpenUpdater.csproj", "{F3464F8A-6F64-450C-9BA1-3841D6493823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOpenUpdater.Bootsrapper", "GOpenUpdater.Bootsrapper\GOpenUpdater.Bootsrapper.csproj", "{AED31053-3633-4A0A-B623-A315103472A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F3464F8A-6F64-450C-9BA1-3841D6493823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3464F8A-6F64-450C-9BA1-3841D6493823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3464F8A-6F64-450C-9BA1-3841D6493823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED31053-3633-4A0A-B623-A315103472A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED31053-3633-4A0A-B623-A315103472A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED31053-3633-4A0A-B623-A315103472A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED31053-3633-4A0A-B623-A315103472A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
